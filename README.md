@@ -1,4 +1,4 @@
-react-ui-lib-doc-fraft
+react-ui-lib-doc-draft
 ====
 
-React.js UI Library document fraft.
+React.js UI Library document draft.
